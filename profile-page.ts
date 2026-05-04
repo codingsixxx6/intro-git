@@ -1,4 +1,4 @@
-letfullName = 'farhan';
+let fullName = 'farhan';
 let address ='padang';
 let hobby = 'badminton';
 
